@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="seal_text" format="string"/>
+    <attr name="seal_textSize" format="dimension" />
+    <attr name="seal_textColor" format="color" />
+
+    <declare-styleable name="Customer_Seal" >
+        <attr name="seal_text" />
+        <attr name="seal_textSize" />
+        <attr name="seal_textColor" />
+    </declare-styleable>
+</resources>
